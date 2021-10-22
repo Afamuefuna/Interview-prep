@@ -1,0 +1,7 @@
+C:\Users\binary hack\Documents\GitHub\Interview-prep\Interview-prep\bin\Debug\Interview-prep.exe.config
+C:\Users\binary hack\Documents\GitHub\Interview-prep\Interview-prep\bin\Debug\Interview-prep.exe
+C:\Users\binary hack\Documents\GitHub\Interview-prep\Interview-prep\bin\Debug\Interview-prep.pdb
+C:\Users\binary hack\Documents\GitHub\Interview-prep\Interview-prep\obj\Debug\Interview-prep.csproj.AssemblyReference.cache
+C:\Users\binary hack\Documents\GitHub\Interview-prep\Interview-prep\obj\Debug\Interview-prep.csproj.CoreCompileInputs.cache
+C:\Users\binary hack\Documents\GitHub\Interview-prep\Interview-prep\obj\Debug\Interview-prep.exe
+C:\Users\binary hack\Documents\GitHub\Interview-prep\Interview-prep\obj\Debug\Interview-prep.pdb
