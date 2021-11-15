@@ -1,0 +1,20 @@
+Merge two sorted lists
+
+LINE 15 - 16
+first we create a dummy list to iterate through both l1 and l2
+Then we create a head list to hold the value of dummy
+
+LINE 17 - 28
+while l1 and l2 isn't null, if the value in l1 is less than the value in l2, assign that value to dummy (remember it follows this order cause it's a sorted list)
+	else vice verse, then we extend the l1 to the next.
+
+LINE 29
+we also extend dummy to the next
+
+LINE 33 - 41
+if while loop is over, but probably there's still one more list element left, this is probably the last value
+we set it, then return the head.next
+
+why head.next?
+
+the first value of our dummy list is zero and we do not want to include that.
