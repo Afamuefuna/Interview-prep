@@ -1,0 +1,13 @@
+Removing duplicates from sorted list
+
+first we set create and set the 'currentNode' to head.
+
+'ListNode currentNode = head'
+
+secondly while the 'currentNode' isn't null and 'currentNode.next' isn't null, 
+meaning they exist, we run the following programs;
+
+1. we check the 'currentNode' value and compare that to 'currentNode.next' value, if they're the same,
+	dereference the 'currentNode.next' to 'currentNode.next.next' else we just move on, set the 'currentNode' to 'currentNode.next'
+
+2. return 'head' (value)
